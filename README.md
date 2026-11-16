@@ -8,7 +8,7 @@ Enterprise AI does not fail on models. It fails on the harness.
 
 I spent 25 years where process is not optional: food, medical imaging, medical devices, automotive, industrial automation, lighting, robotics — global SAP rollouts, shared-services transitions, and the PMO that has to hold the timeline, the deliverables and the risk. Then AI arrived, and I stopped talking about it and started building.
 
-★ **[sdr010-coder.github.io](https://sdr010-coder.github.io)** — the site. **[enterprise-harness](https://github.com/sdr010-coder/EnterpriseHARNESS)** — the work.
+★ **[sdr010-coder.github.io](https://sdr010-coder.github.io)** — the site. **[enterprise-harness](https://github.com/sdr010-coder/EnterpriseHARNESS)** — the work. **[Hiring me](https://sdr010-coder.github.io/hiring.html)** — the roles and what I am not. **[CV](https://sdr010-coder.github.io/cv.html)** · **[中文简历](https://sdr010-coder.github.io/cv-zh.html)**.
 
 ---
 
