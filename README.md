@@ -50,9 +50,9 @@ Read the definition: [What an Enterprise Harness is](https://github.com/sdr010-c
 | | |
 |---|---|
 | **Now** | **Enterprise Harness** — open definition, eleven documents, and a runnable reference implementation: named-signer mandate, six fail-closed gates, dual ledger with a hash chain. *Maturity: open · personal prototype.* [repo →](https://github.com/sdr010-coder/EnterpriseHARNESS) |
-| **2026** | **Agent-governance proof of concept** — built in 2 weeks: 475 processes, an 8-step delivery journey, 6 gates, a dual ledger and hash chain. Agents that can be approved, stopped and audited. *Maturity: proof of concept; zero scenarios released to production.* |
+| **2026** | **Agent-governance proof of concept** — built in 2 weeks: 475 processes, an 8-step delivery journey, 6 gates, a dual ledger and hash chain. Tested with APAC process owners and IT business partners; presented to the regional IT VP and the global AI & Data VP. *Maturity: proof of concept; zero scenarios released to production.* |
 | **2026** | **Evidence-first AI research platform** — every conclusion traces to a source, counter-evidence is a required field, and a human signs the result. 106 evidence items from 58 sources. *Maturity: personal prototype.* |
-| **2025–26** | **PMO platform for a global SAP S/4HANA rollout** — as PMO, I designed and built the implementation's platform, zero to live in 4.5 months. 56 pages, 51 tables, 119,000 lines, a 455-item category dictionary and 1,485 processes underneath. *Maturity: enterprise delivery.* |
+| **2025–26** | **PMO platform for a global SAP S/4HANA rollout** — as PMO, I designed and built the implementation's platform, zero to live in 4.5 months. Used by the global programme PMO and for APAC process-owner readiness training across ten countries. 56 pages, 51 tables, 119,000 lines, a 455-item category dictionary and 1,485 processes underneath. *Maturity: enterprise delivery.* |
 | **2024–26** | Transformation programme manager, APAC — a US food company. |
 | **2019–24** | IT business partner — a global medical-device maker. |
 | **Before** | Twenty years of enterprise systems across seven industries; teams up to 19; a nine-country shared-services transition; a first-in-group China SAP go-live. |
